@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @skyworth01
-- 👀 I’m interested in Mobile,Web App Development and CyberSecurity
 - 📫 How to reach me --- ajithpls2001@gmail.com
 
 <!---
